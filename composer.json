@@ -1,5 +1,5 @@
 {
-    "name": "espero-soft/dateformat",
+    "name": "espero-soft/numberformat",
     "description": "This php library will help you format numbers.",
     "type": "library",
     "license": "MIT",
